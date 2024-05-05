@@ -7,38 +7,6 @@ The objective of the project is to develop a website for placement and recruitme
 
 Note it : This project is not fully completed  but you can use this project for your own purposes 
 
-Author : Manasa P
-
-Project Name : Placement management system 
-
-Modules : Admin, Company, College, Students
-
-Demo And Installation https://www.youtube.com/watch?v=Eg-C6euCWPU
-
-Contributors are welcome!
-
- ```
-Login information
-Admin login information:
-
-Mail: manasa@emv.com
-Password: manasa@emv.com
-
-Company  login information
-
-Mail: jojo@emv.com
-Password: jojo@emv.com
-
-College login information
-
-Mail: krishna@emv.com
-Password: krishna@emv.com
-
-Student login information
-
-Mail: albin@emv.com
-Password: albin@emv.com
- ```
 
 # Requirement
 Download any web server on your computer such as wamp, xampp ...etc
