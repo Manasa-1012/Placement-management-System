@@ -7,7 +7,7 @@ The objective of the project is to develop a website for placement and recruitme
 
 Note it : This project is not fully completed  but you can use this project for your own purposes 
 
-Author : Yaseen Emv
+Author : Manasa P
 
 Project Name : Placement management system 
 
@@ -21,8 +21,8 @@ Contributors are welcome!
 Login information
 Admin login information:
 
-Mail: yaseenemv@emv.com
-Password: yaseenemv@emv.com
+Mail: manasa@emv.com
+Password: manasa@emv.com
 
 Company  login information
 
